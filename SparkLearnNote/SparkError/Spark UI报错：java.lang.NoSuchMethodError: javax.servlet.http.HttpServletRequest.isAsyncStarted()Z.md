@@ -46,9 +46,11 @@ java.lang.NoSuchMethodError: javax.servlet.http.HttpServletRequest.isAsyncStarte
 
 **注意：**
 
-ort.glassfish.jersey.containers:jersey-container-servlet-cor:2.17该依赖不可以删除，否则程序会出错。
-
-若不慎删除，通过对`pom.xml`进行`Reimport`操作即可重新倒入该依赖，同时，之前删除的依赖也会重新导入。
-
 ![图四](/Users/sunlu/Workspaces/PyCharm/Github/LearnDiary/images/Spark/spark.error.04.png)
 
+
+ort.glassfish.jersey.containers:jersey-container-servlet-cor:2.17该依赖不可以删除，否则程序会出错。
+
+    Caused by: java.lang.ClassNotFoundException: org.glassfish.jersey.servlet.ServletContainer
+
+若不慎删除，通过对`pom.xml`进行`Reimport`操作即可重新倒入该依赖，同时，之前删除的依赖也会重新导入。
