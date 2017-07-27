@@ -18,7 +18,7 @@ java.lang.NoSuchMethodError: javax.servlet.http.HttpServletRequest.isAsyncStarte
 双击`shift`键，搜索`HttpServletResponse`方法，显示如下信息：
 
 
-![图一](/Users/sunlu/Workspaces/PyCharm/Github/LearnDiary/images/Spark/spark.error.01.png)
+![图一](https://raw.githubusercontent.com/sunshinelu/LearnDiary/master/images/Spark/spark.error.01.png)
 
 
 发现在servlet-api-2.5.jar中确实不存在该方法，问题可想而知，servlet-api-3.1.0.jar中的方法被覆盖。
@@ -31,7 +31,7 @@ java.lang.NoSuchMethodError: javax.servlet.http.HttpServletRequest.isAsyncStarte
 
 删除javax.servlet:servlet-api:2.5和org.mortbay.jetty:servlet-api-2.5:6.1.14。
 
-![图二](/Users/sunlu/Workspaces/PyCharm/Github/LearnDiary/images/Spark/spark.error.02.png)
+![图二](https://raw.githubusercontent.com/sunshinelu/LearnDiary/master/images/Spark/spark.error.02.png)
 
 选中`javax.servlet:servlet-api:2.5`，单击鼠标右键，选择`Open Libray Settings`，可以看到上图结果，点击`－`进行删除该依赖。
 
@@ -40,13 +40,13 @@ java.lang.NoSuchMethodError: javax.servlet.http.HttpServletRequest.isAsyncStarte
 java.lang.NoSuchMethodError: javax.servlet.http.HttpServletRequest.isAsyncStarted()Z
 
 
-![图三](/Users/sunlu/Workspaces/PyCharm/Github/LearnDiary/images/Spark/spark.error.03.png)
+![图三](https://raw.githubusercontent.com/sunshinelu/LearnDiary/master/images/Spark/spark.error.03.png)
 
 删除org.mortbay.jetty:servlet-api-2.5:6.1.14之后Spark UI显示正常。
 
 **注意：**
 
-![图四](/Users/sunlu/Workspaces/PyCharm/Github/LearnDiary/images/Spark/spark.error.04.png)
+![图四](https://raw.githubusercontent.com/sunshinelu/LearnDiary/master/images/Spark/spark.error.04.png)
 
 
 ort.glassfish.jersey.containers:jersey-container-servlet-cor:2.17该依赖不可以删除，否则程序会出错。
