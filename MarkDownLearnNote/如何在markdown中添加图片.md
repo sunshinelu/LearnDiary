@@ -18,6 +18,15 @@ alt="GitHub" title="GitHub,Social Coding" width="1000" height="500" />
  width="2000" height="800" alt="亦菲表演机器猫"/>
 </div>
 
+## 添加GIF文件
+
+![tensorflow](https://raw.githubusercontent.com/sunshinelu/LearnDiary/master/images/Tensorflow/wm.gif)
+
+<div>
+<img src="https://raw.githubusercontent.com/sunshinelu/LearnDiary/master/images/Tensorflow/wm.gif" alt="tensorflow"/>
+</div>
+
+
 参考链接：
 
 <http://www.appinn.com/markdown/>
