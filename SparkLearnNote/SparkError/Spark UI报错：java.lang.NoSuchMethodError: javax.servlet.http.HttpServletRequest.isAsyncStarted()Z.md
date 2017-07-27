@@ -16,13 +16,30 @@ java.lang.NoSuchMethodError: javax.servlet.http.HttpServletRequest.isAsyncStarte
 
 
 
-![Al](file:///Users/sunlu/Documents/workspace/IDEA/Github/LearnDiary/images/Spark/t1.png)
-
-![t1](https://github.com/sunshinelu/LearnDiary/blob/master/images/Spark/spark.error.01.png)
-
-![](file:///Users/sunlu/Documents/workspace/IDEA/Github/LearnDiary/images/Spark/spark.error.01.png) 
-
-![CSDN图标](http://imgtech.gmw.cn/attachement/jpg/site2/20111223/f04da22d7ba7105e1d7507.jpg "这是CSDN的图标")
+错误信息为`java.lang.NoSuchMethodError: javax.servlet.http.HttpServletRequest.isAsyncStarted()Z`找不到HttpServletRequest方法，
+通过双击`shift`键查找“”发现
+tu1
+![pic1](file:///Users/sunlu/Documents/workspace/IDEA/Github/LearnDiary/images/Spark/spark.error.01.png)
 
 
-![GitHub](https://avatars2.githubusercontent.com/u/3265208?v=3&s=100 "GitHub,Social Coding")
+
+
+
+
+
+![pic1](file:///Users/sunlu/Documents/workspace/IDEA/Github/LearnDiary/images/Spark/spark.error.02.png)
+
+
+
+
+
+![pic1](file:///Users/sunlu/Documents/workspace/IDEA/Github/LearnDiary/images/Spark/spark.error.03.png)
+
+
+
+
+![pic1](file:///Users/sunlu/Documents/workspace/IDEA/Github/LearnDiary/images/Spark/spark.error.04.png)
+
+
+参考链接：
+<http://blog.csdn.net/ainidong2005/article/details/53088957>
