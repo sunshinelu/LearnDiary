@@ -64,7 +64,16 @@ Python：Python 2.7.13
     ImportError: No module named mysql.connector
     >>> 
  
- 在anaconda中安装`mysql-connector-python`
+ 在anaconda中安装`mysql-connector-python`，
+ 安装过程如下：
+ 
+ 打开anaconda，点击`Environments`,
+ 
+ ![picture1](https://raw.githubusercontent.com/sunshinelu/LearnDiary/master/images/Python/python.error.mysql.01.png)
+ 
+ ![picture2](https://raw.githubusercontent.com/sunshinelu/LearnDiary/master/images/Python/python.error.mysql.02.png)
+ 
+ 安装完成后，检测`mysql-connector-python`是否安装成功。
  
     Last login: Sat Jul 29 14:28:06 on ttys000
     sunludeMacBook-Pro:~ sunlu$ python
