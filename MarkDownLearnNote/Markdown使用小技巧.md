@@ -42,3 +42,8 @@ baz | baz  | baz
     foo | foo  | foo
     bar | bar  | bar
     baz | baz  | baz
+
+
+4. 特殊符号
+
+ HTML中的特殊符号<http://blog.csdn.net/html5_/article/details/21639475>
