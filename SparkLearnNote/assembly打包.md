@@ -64,14 +64,14 @@
 
 点击`assembly:assembly`进行打包。
 
-![配置Artifacts](https://raw.githubusercontent.com/sunshinelu/LearnDiary/master/images/Spark/spark.assembly.06.png)
+![assembly打包](https://raw.githubusercontent.com/sunshinelu/LearnDiary/master/images/Spark/spark.assembly.06.png)
 
 ## 4. 结果
 
 最后在根目录下生成`target`文件夹，其中包含`SparkDiary-1.0-SNAPSHOT.jar`和`SparkDiary-1.0-SNAPSHOT-jar-with-dependencies.jar`。
 `SparkDiary-1.0-SNAPSHOT.jar`为没有打入依赖的jar，`SparkDiary-1.0-SNAPSHOT-jar-with-dependencies.jar`为打入依赖的jar。
 
-![配置Artifacts](https://raw.githubusercontent.com/sunshinelu/LearnDiary/master/images/Spark/spark.assembly.07.png)
+![assembly结果](https://raw.githubusercontent.com/sunshinelu/LearnDiary/master/images/Spark/spark.assembly.07.png)
 
 
 ## 错误信息：
@@ -86,3 +86,11 @@
     [ERROR] [Help 1] http://cwiki.apache.org/confluence/display/MAVEN/PluginExecutionException
 
 **解决方法** ： 删除项目中的spring相关内容后，`assembly:assembly`运行成功。
+
+例如在SparkDiary项目中，删除以下内容：
+
+![删除Spring](https://raw.githubusercontent.com/sunshinelu/LearnDiary/master/images/Spark/spark.assembly.08.png)
+
+![删除Spring](https://raw.githubusercontent.com/sunshinelu/LearnDiary/master/images/Spark/spark.assembly.09.png)
+
+![删除Spring](https://raw.githubusercontent.com/sunshinelu/LearnDiary/master/images/Spark/spark.assembly.10.png)

@@ -7,6 +7,13 @@
 <https://www.youtube.com/channel/UCdyjiB5H8Pu7aDTNVXTTpcg>
 
 
+
+DS401 深度学习第一节课 公开课
+<https://www.youtube.com/watch?v=Li5sVEXTIJw>
+<https://www.bittiger.io/livecourses/ivpDsS2zY9g7PburL>
+
+
+
 ## 2. 书籍
 
 
