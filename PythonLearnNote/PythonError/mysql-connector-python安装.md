@@ -67,7 +67,7 @@ Python：Python 2.7.13
  在anaconda中安装`mysql-connector-python`，
  安装过程如下：
  
- 打开anaconda，点击`Environments`,
+ 打开anaconda，点击`Environments`搜索`mysql-connector-python`,
  
  ![picture1](https://raw.githubusercontent.com/sunshinelu/LearnDiary/master/images/Python/python.error.mysql.01.png)
  
