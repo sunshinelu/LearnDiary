@@ -27,8 +27,8 @@ Logit层（Logit layer）、Softmax、交叉熵（cross entropy）、梯度（gr
 Tensorflow指“张量的流动”，TensorFlow的*数据流图*是由`节点（node）`和`边（edge）`组成的有向无环图（directed acycline graph, DGA）
 
 TensorFlow的组成：
-* Tensor：`张量`&rArr;`边`&rArr;`数据`
-* Flow：`流动`&rArr;`节点`&rArr;`算子`&rArr;`操作`&rArr;`处理`
+* Tensor：`张量`&hArr;`边`&hArr;`数据`
+* Flow：`流动`&hArr;`节点`&hArr;`算子`&hArr;`操作`&hArr;`处理`
 
 ##TensorFlow基本概念
 
