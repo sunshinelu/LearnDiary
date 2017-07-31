@@ -10,12 +10,10 @@ TensorFlow Tutorial 修炼指南
 <https://www.youtube.com/channel/UCHPHGYUfAfRIvf1RT9sADLg>
 
 
-DS401 深度学习第一节课 公开课
-<https://www.youtube.com/watch?v=Li5sVEXTIJw>
-<https://www.bittiger.io/livecourses/ivpDsS2zY9g7PburL>
+An Introduction to LSTMs in Tensorflow
+<https://www.youtube.com/watch?v=l4X-kZjl1gs>
 
-一天搞懂深度學習--學習心得
-<https://www.youtube.com/watch?v=ZrEsLwCjdxY>
+
 
 ## 2. 书籍
 
