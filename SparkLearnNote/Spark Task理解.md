@@ -1,0 +1,3 @@
+
+
+一个RDD有多少个partition就有多少个task，每一个task只处理一个partition上的数据。
