@@ -12,7 +12,18 @@ Kafka安装位置：
 
 kafka-topics.sh --zookeeper bigdata4:2181 --list
 
+lqzTest
+ylzx
+
 查看日志
 
 /usr/soft/kafka/logs
 vi server.log
+
+查看指定topic信息
+kafka-topics.sh --zookeeper bigdata4:2181 --describe --topic ylzx
+
+Topic:ylzx	PartitionCount:3	ReplicationFactor:3	Configs:
+	Topic: ylzx	Partition: 0	Leader: 2	Replicas: 2,0,1	Isr: 2,0,1
+	Topic: ylzx	Partition: 1	Leader: 2	Replicas: 0,1,2	Isr: 2,1
+	Topic: ylzx	Partition: 2	Leader: 1	Replicas: 1,2,0	Isr: 2,1,0
