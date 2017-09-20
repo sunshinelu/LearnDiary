@@ -7,3 +7,6 @@ truncate 'docsimi_word2vec'
 删除表：
 disable 'docsimi_svd'
 drop 'docsimi_svd'
+
+根据rowkey查看某一条数据：
+get 'yilan-total_webpage','e7685b22-451a-434e-8489-832561c770d9'
