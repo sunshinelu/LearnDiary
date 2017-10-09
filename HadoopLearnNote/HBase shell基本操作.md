@@ -12,4 +12,4 @@ drop 'docsimi_svd'
 get 'yilan-total_webpage','e7685b22-451a-434e-8489-832561c770d9'
 
 查看表结构
-get 'yilan-total-analysis_webpage','e7685b22-451a-434e-8489-832561c770d9'
+get 'yilan-total-analysis_webpage','f976b247-b6fb-4d20-93ae-9bc4ab41a6a4'
