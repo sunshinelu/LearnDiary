@@ -6,7 +6,7 @@
 >
 > Spark性能优化指南——高级篇 <https://tech.meituan.com/spark-tuning-pro.html>
 >
->
+> [Spark性能调优] 第一章：性能调优的本质、Spark资源使用原理和调优要点分析 <http://www.cnblogs.com/jcchoiling/p/6440709.html#undefined>
 >
 >
 >
