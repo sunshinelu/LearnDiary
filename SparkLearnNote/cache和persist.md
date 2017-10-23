@@ -139,4 +139,4 @@
 
 ---------
 
-![cache and persist](https://raw.githubusercontent.com/sunshinelu/LearnDiary/master/images/Spark/cacheAndPersist.png)
+![cacheAndPersist](https://raw.githubusercontent.com/sunshinelu/LearnDiary/master/images/Spark/cacheAndPersist.png)
