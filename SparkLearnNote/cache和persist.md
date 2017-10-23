@@ -6,7 +6,7 @@
 >
 > Spark性能优化指南——基础篇 <https://tech.meituan.com/spark-tuning-basic.html>
 >
->
+> Spark2 Dataset持久化存储级别StorageLevel<http://www.cnblogs.com/wwxbi/p/6101842.html>
 >
 
 
@@ -135,3 +135,8 @@
       require(!deserialized, "Off-heap storage level does not support deserialized storage")
       require(replication == 1, "Off-heap storage level does not support multiple replication")
     }
+    
+
+---------
+
+![cache and persist](https://raw.githubusercontent.com/sunshinelu/LearnDiary/master/images/Spark/cacheAndPersist.png)
