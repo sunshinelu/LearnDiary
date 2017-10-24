@@ -11,17 +11,19 @@
 将文件加入到VSC中
 
 
-![123](https://raw.githubusercontent.com/sunshinelu/LearnDiary/master/images/IntelliJ/addVSC.png)
+![assVSC](https://raw.githubusercontent.com/sunshinelu/LearnDiary/master/images/IntelliJ/addVSC.png)
 
-
-
-![assVSC](https://raw.githubusercontent.com/sunshinelu/LearnDiary/master/images/Spark/IntelliJ/addVSC.png)
 
 
 ##  将文件撤回
 
-![assVSC](https://raw.githubusercontent.com/sunshinelu/LearnDiary/master/images/Spark/IntelliJ/delCSV.png)
+将加入VSC的文件撤回
 
 
-![assVSC](https://raw.githubusercontent.com/sunshinelu/LearnDiary/master/images/Spark/IntelliJ/delCSV2.png)
+
+![assVSC](https://raw.githubusercontent.com/sunshinelu/LearnDiary/master/images/IntelliJ/delVSC.png)
+
+
+![assVSC](https://raw.githubusercontent.com/sunshinelu/LearnDiary/master/images/IntelliJ/delCSV2.png)
+
 
