@@ -10,3 +10,4 @@
 >
 > Pivoting Data in SparkSQL <https://svds.com/pivoting-data-in-sparksql/>
 >
+> Reshaping/Pivoting data in Spark RDD and/or Spark DataFrames <https://stackoverflow.com/questions/30260015/reshaping-pivoting-data-in-spark-rdd-and-or-spark-dataframes>
