@@ -1,0 +1,3 @@
+# java中New不New的问题
+
+凡事带有static的方法都不需要new
