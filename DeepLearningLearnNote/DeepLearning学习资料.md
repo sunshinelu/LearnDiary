@@ -18,6 +18,7 @@ DS401 深度学习第一节课 公开课
 
 李宏毅
 <https://www.youtube.com/channel/UC2ggjtuuWvxrHHHiaDH1dlQ>
+<http://speech.ee.ntu.edu.tw/~tlkagk/courses.html>
 * NTUEE ML 2016
 <https://www.youtube.com/playlist?list=PLJV_el3uVTsPy9oCRY30oBPNLCo89yu49>
 <http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML16.html>
