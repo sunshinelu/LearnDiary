@@ -27,6 +27,12 @@ DS401 深度学习第一节课 公开课
 <http://speech.ee.ntu.edu.tw/~tlkagk/courses_MLDS17.html>
 
 
+机器学习速成课程
+使用 TensorFlow API
+<https://developers.google.cn/machine-learning/crash-course/>
+<https://developers.google.cn/machine-learning/crash-course/prereqs-and-prework>
+
+
 开发者课堂
 https://www.youtube.com/channel/UC3838woWBF9urfVl09cEMHg/playlists?sort=dd&shelf_id=11&view=50
 
