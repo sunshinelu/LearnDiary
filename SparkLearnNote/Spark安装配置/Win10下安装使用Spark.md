@@ -35,6 +35,7 @@ drwxrwxrwx 1 SUNLU\sunlu SUNLU\None 0 Jul 21 2017 C:\tmp\hive
 
 参考链接：
 https://stackoverflow.com/questions/34196302/the-root-scratch-dir-tmp-hive-on-hdfs-should-be-writable-current-permissions
+https://hernandezpaul.wordpress.com/2016/01/24/apache-spark-installation-on-windows-10/
 
 ## 3 在PyCharm中配置Spark
 
