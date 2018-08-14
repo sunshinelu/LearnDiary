@@ -13,3 +13,14 @@
     val spark = SparkSession.builder.appName("CheckTrainData").master("local[*]").getOrCreate()
     val sc = spark.sparkContext
     import spark.implicits._
+ 
+
+不打印日志方法
+
+  // do not print log
+  def SetLogger = {
+    Logger.getLogger("org").setLevel(Level.OFF)
+    Logger.getLogger("com").setLevel(Level.OFF)
+    System.setProperty("spark.ui.showConsoleProgress", "false")
+    Logger.getRootLogger().setLevel(Level.OFF)
+  }
