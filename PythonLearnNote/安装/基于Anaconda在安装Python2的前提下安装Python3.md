@@ -5,7 +5,10 @@
 > Mac OS下 Anaconda Python2 和 Python3 配置
 > <https://blog.csdn.net/xavierri/article/details/78618052>
 >
+> MAC 如何在安装anaconda的同时，安装python3和python2
+> <https://www.cnblogs.com/dapeng-bupt/p/9927489.html>
 >
+
 
 
 conda create --name python37 python=3.7
