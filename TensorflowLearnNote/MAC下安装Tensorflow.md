@@ -73,3 +73,21 @@ Mac中自带python版本为`2.7.10`，位于`/usr/bin/python`中，使用anacond
     >>> 
     
 *注意*：`tf.__version__`中`__`看着像是一个下划线，实际上是两个下划线。
+
+
+### 6. 在python3.7下安装tensorflow (此安装导致anaconda出问题)
+
+    source activate python37
+    
+    python --version
+
+    
+    
+    anaconda search -t conda tensorflow
+    anaconda show conda-forge/tensorflow
+    conda install --channel https://conda.anaconda.org/conda-forge  tensorflow
+    
+    
+    python 
+    import tensorflow as tf
+    tf.__version__

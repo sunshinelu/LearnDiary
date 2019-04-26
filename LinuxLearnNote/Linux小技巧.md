@@ -23,3 +23,9 @@ vi批量删除指定字符串
     //n可以取1，表示从第一行开始删除含有test 
     
 参考链接<http://blog.csdn.net/cheng1988shu/article/details/8253963>
+
+
+### 3. linux查看指定文件夹大小
+
+
+    du -sh Projects/IngloryBDMinning/
