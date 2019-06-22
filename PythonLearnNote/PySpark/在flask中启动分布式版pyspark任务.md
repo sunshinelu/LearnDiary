@@ -72,3 +72,5 @@ exampleweb.py
 Now we can start our Flask application by submitting it to spark.
 
     ./bin/spark-submit --master spark://$(hostname -s):7077 exampleweb.py
+    
+And then access it at `http://localhost:5000/` and `http://localhost:5000/pi?partitions=1`.
