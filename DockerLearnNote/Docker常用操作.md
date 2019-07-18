@@ -20,9 +20,15 @@
 
     sudo docker rmi 3fa112fd3642
 
-### 退出容器命
+### 退出容器命令
 
 退出容器命令`Ctrl+P+Q`。
+
+
+### 进入容器命令
+
+    sudo docker exec -it 782061a40d03  /bin/bash  
+
 
 ### 查看端口号命令
 

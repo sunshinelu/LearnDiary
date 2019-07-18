@@ -29,3 +29,8 @@ vi批量删除指定字符串
 
 
     du -sh Projects/IngloryBDMinning/
+
+
+### 4. linux查看端口号
+
+netstat -tunlp|grep 9090
