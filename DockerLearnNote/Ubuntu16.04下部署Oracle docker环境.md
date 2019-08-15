@@ -33,10 +33,12 @@
 
 
 1) uninstall older version docker
+
     
     sudo apt-get remove docker docker-engine docker.io containerd runc
 
 2) Update the `apt` package index:
+
 
     sudo apt-get update
 
