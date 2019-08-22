@@ -65,11 +65,23 @@
         ... 40 more
 
 
-修复macOS 10.12 的 Python2.7环境(为了让Xcode能打包)
-https://www.jianshu.com/p/2aa2b973d025
+> 修复macOS 10.12 的 Python2.7环境(为了让Xcode能打包)
+> <https://www.jianshu.com/p/2aa2b973d025>
 
-【python】mac系统下的Python安装，以及误删系统Python的解决办法
-https://blog.csdn.net/weifenglin1997/article/details/61419689
+>【python】mac系统下的Python安装，以及误删系统Python的解决办法
+> <https://blog.csdn.net/weifenglin1997/article/details/61419689>
+
+> mac 卸载自己安装python和brew卸载python
+> <https://blog.csdn.net/qq_19484963/article/details/80016049>
+
+> MAC 开启与关闭SIP
+> <https://www.cnblogs.com/jenny1000000/p/7771242.html>
+
+> Mac环境下安装使用pyenv安装python3
+> <https://blog.csdn.net/wt5690788/article/details/81233693>
+>
+> Mac OS下使用pyenv管理Python版本
+> <https://www.cnblogs.com/floodwater/p/10057784.html>
 
 
 对python卸载安装，安装卸载。
