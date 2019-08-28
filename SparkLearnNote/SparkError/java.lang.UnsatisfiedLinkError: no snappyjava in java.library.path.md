@@ -54,7 +54,7 @@
 
 最后，将`libsnappyjava.dylib`放到`$JAVA_HOME/jre/lib`下，
 
-    cp libsnappyjava.dylib $JAVA_HOME/jre/lib
+    sudo cp libsnappyjava.dylib $JAVA_HOME/jre/lib
     cd $JAVA_HOME/jre/lib
     ls libsnappy*
     
