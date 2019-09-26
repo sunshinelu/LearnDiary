@@ -24,6 +24,50 @@ pyspark连hbase报org.apache.spark.examples.pythonconverters.ImmutableBytesWrita
 用Python操作HBase之HBase-Thrift
 <https://blog.csdn.net/y472360651/article/details/79055875>
 
+
+songjian28/pyspark-hbase
+<https://github.com/songjian28/pyspark-hbase/blob/master/shbase/shb.py>
+
+akanyaani/PySpark-Helpers
+<https://github.com/akanyaani/PySpark-Helpers/blob/master/pySparkWithHbase.py>
+
+
+lmlzk/pyspark_hbase
+<https://github.com/lmlzk/pyspark_hbase/blob/master/pyspark_connect_hbase_test.py>
+
+Pyspark实战（五）pyspark+happybase操作hbase
+<https://blog.csdn.net/luoye4321/article/details/94413916>
+
+
+pyspark连接hbase学习
+<https://blog.csdn.net/deer_sheep/article/details/82838559>
+
+
+
+Spark2.1.0+入门：读写HBase数据(Python版)
+<http://dblab.xmu.edu.cn/blog/1715-2/>
+
+使用pycharm访问远端hbase集群
+<https://blog.csdn.net/u014407826/article/details/84939515>
+
+Spark 读写 HBase 的两种方式（RDD、DataFrame）
+<https://blog.csdn.net/yitengtongweishi/article/details/82556824>
+
+
+Apache HBase ™ Reference Guide
+<https://hbase.apache.org/book.html#_sparksql_dataframes>
+
+Read from HBase with PySpark
+<https://stackoverflow.com/questions/51306666/read-from-hbase-with-pyspark>
+
+Spark DataFrame写入HBase的常用方式
+<https://www.cnblogs.com/xing901022/p/8486290.html>
+
+
+
+
+-----
+
 bigdata7:
 
 hbase shell
