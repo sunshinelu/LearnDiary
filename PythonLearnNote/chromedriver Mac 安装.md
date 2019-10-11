@@ -25,7 +25,7 @@ cd /usr/local/bin/
 sudo chmod u+x,o+x   /usr/local/bin/chromedriver
 chromedriver --version
 ```
-
+测试是否安装成功，在python中输入以下命令：
 ```python
 
 from selenium import webdriver
