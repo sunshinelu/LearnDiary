@@ -74,6 +74,9 @@ hbase shell
 
 list
 
+disable 't_student_sunlu'
+drop 't_student_sunlu'
+
 create 't_student_sunlu','info'
 
 describe 't_student_sunlu'
