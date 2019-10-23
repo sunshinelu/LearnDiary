@@ -1,6 +1,11 @@
 # Kafka error value must be bytes.md
 
-
+> 参考链接
+> 平台搭建---spark生态版本问题
+> <https://blog.csdn.net/qingqing7/article/details/79213110>
+>
+>
+>
 
 ```python
 from kafka import KafkaProducer
